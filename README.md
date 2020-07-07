@@ -1,6 +1,6 @@
 # cc-plugins
 
-自用vue组件库
+自用vue组件库，支持babel-plugin-import实现按需加载
 
 ## Project setup
 ```
